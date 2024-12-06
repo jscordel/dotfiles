@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = jules.scordel@gmail.com
+	email = @users.noreply.github.com
 	name = Jules Scordel
